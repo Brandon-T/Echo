@@ -1,5 +1,5 @@
 # SMem
-A small library that unifies Shared-Memory IPC &amp; Synchronized access across multiple platforms
+A small library that unifies Shared-Memory IPC &amp; Synchronized access across multiple platforms with a standard C++ interface similar to `std::fstream`.
 
 
 # Usage:
